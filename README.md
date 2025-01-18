@@ -5,11 +5,11 @@
 
 🌟 Experiences
 ---
-- AlKon, Vice President (Algorithm Club @ CSE, Konkuk Univ.) 23.03~23.12
-- KU:Super Rookie 4th, Lead/AI Researcher 23.09~24.01
-- Undergraduate Research Intern, CoIn Lab @ CSE, Konkuk Univ. 22.01~24.03
 - Graduate Student, LOG @ GSAI, POSTECH. 24.08~
-  
+- KU:Super Rookie 4th, Lead/AI Researcher 23.09~24.01
+- AlKon, Vice President (Algorithm Club @ CSE, Konkuk Univ.) 23.03~23.12
+- Undergraduate Research Intern, CoIn Lab @ CSE, Konkuk Univ. 22.01~24.03
+
  🔭 Research interests 
  ---
 
