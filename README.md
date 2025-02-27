@@ -17,7 +17,7 @@ I'm currently interested in designing optimization algorithms to find efficient,
 
 **Keywords**
 
-Efficient DL, Optimization Theory, Deep Learning Theory
+Efficient DL - Model Compression, Optimization Theory, Deep Learning Theory
 
 📚 Language & Framework
 ---
