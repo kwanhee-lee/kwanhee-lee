@@ -1,7 +1,8 @@
 📚 Education
 ---
-- B.S. @ CSE, Konkuk University, Seoul 
-- M.S. @ GSAI, POSTECH 
+- M.S. Student @ GSAI, POSTECH. 24.08~
+- B.S. @ CSE, Konkuk University, Seoul. 19.03~24.08
+
 
 🌟 Experiences
 ---
@@ -13,19 +14,31 @@
  🔭 Research interests 
  ---
 
-I'm currently interested in designing optimization algorithms to find efficient, robust LLMs.
+I'm currently interested in designing optimization algorithms to find efficient, robust LLMs. 
 
 **Keywords**
 
-Efficient DL - Model Compression, Optimization Theory, Deep Learning Theory
+- Efficient DL - Model Compression, Optimization Theory, Deep Learning Theory
 
 📚 Language & Framework
 ---
-Native Korean, Fluent in English
+Languages
+
+- Korean(Native), English (Fluent)
+
+Programming Language
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+Framework
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> 
+
+Currently interested in exploring local LLM inference frameworks such as
+
+- [vLLM](https://github.com/vllm-project/vllm)
+- [ollama](https://github.com/ollama/ollama)
+- [CoreLM](https://developer.apple.com/documentation/coreml)
 
 😄 Misc.
 ---
