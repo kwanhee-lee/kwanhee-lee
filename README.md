@@ -34,12 +34,6 @@ Framework
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> 
 
-Currently interested in exploring local LLM inference frameworks such as
-
-- [vLLM](https://github.com/vllm-project/vllm)
-- [ollama](https://github.com/ollama/ollama)
-- [CoreLM](https://developer.apple.com/documentation/coreml)
-
 😄 Misc.
 ---
 🎸 - Passionate bassist
