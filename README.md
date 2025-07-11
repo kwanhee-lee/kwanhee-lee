@@ -18,7 +18,7 @@ I'm currently interested in designing optimization algorithms to find efficient,
 
 **Keywords**
 
-- Efficient DL - Model Compression, Optimization
+- Efficient LLM, Model Compression, Optimization
 
 📚 Language & Framework
 ---
