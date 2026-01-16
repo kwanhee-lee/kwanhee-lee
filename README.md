@@ -12,11 +12,7 @@
  🔭 Research interests 
  ---
 
-Optimization for model compression
-
-**Keywords**
-
-- Model Compression, Optimization
+I'm generally intrested in optimization methods for deep learning, especially for large language model compression.
 
 📚 Language & Framework
 ---
