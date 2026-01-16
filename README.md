@@ -1,6 +1,6 @@
 📚 Education
 ---
-- M.S. Student @ GSAI, POSTECH. 24.08~
+- M.S. @ GSAI, POSTECH. 24.08~
 - B.S. @ CSE, Konkuk University, Seoul. 19.03~24.08
 
 
