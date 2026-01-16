@@ -12,7 +12,9 @@
  🔭 Research interests 
  ---
 
-I'm generally intrested in optimization methods for deep learning, especially for large language model compression.
+I'm generally intrested in optimization methods for deep learning, especially for compressing (sparsifying) large language models.
+
+Also, I'm currently studying CUDA to realize benefits of compressed language models.
 
 📚 Language & Framework
 ---
@@ -26,7 +28,7 @@ Programming Language
 
 Framework
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">  
 
 😄 Misc.
 ---
