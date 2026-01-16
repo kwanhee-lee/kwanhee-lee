@@ -12,9 +12,9 @@
  🔭 Research interests 
  ---
 
-I'm generally intrested in optimization methods for deep learning, especially for compressing (sparsifying) large language models.
+Optimization for deep learning, especially for compressing (sparsifying) large language models.
 
-Also, I'm currently studying CUDA to realize benefits of compressed language models.
+> Recenlty, I'm intersted in CUDA programming to realize benefits of compressed language models.
 
 📚 Language & Framework
 ---
