@@ -6,6 +6,7 @@
 
 🌟 Experiences
 ---
+- Academic Visitor, Deep Algorithms and Systems Lab @ ISTA. 26.02~
 - Graduate Student, Computational Optimization Lab @ GSAI, POSTECH. 24.08~
 - Undergraduate Research Intern, Connected Intelligence Lab @ CSE, Konkuk Univ. 22.01~24.03
 
