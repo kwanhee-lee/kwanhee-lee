@@ -6,14 +6,14 @@
 
 🌟 Experiences
 ---
-- Academic Visitor, Deep Algorithms and Systems Lab @ ISTA. 26.02~
-- Graduate Student, Computational Optimization Lab @ GSAI, POSTECH. 24.08~
+- Academic Visitor, [Deep Algorithms and Systems Lab](https://github.com/IST-DASLab) @ ISTA. 26.02~
+- Graduate Student, [Computational Optimization Lab](https://github.com/LOG-postech) @ GSAI, POSTECH. 24.08~
 - Undergraduate Research Intern, Connected Intelligence Lab @ CSE, Konkuk Univ. 22.01~24.03
 
  🔭 Research interests 
  ---
 
-Optimization for deep learning, especially for compressing (sparsifying) large language models.
+Optimization for deep learning, especially for compressing large language models.
 
 > Recenlty, I'm intersted in CUDA programming to realize benefits of compressed language models.
 
